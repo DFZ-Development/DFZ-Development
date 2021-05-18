@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @DFZ-Development
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[Version]
+- 1.0.1.32
 
-<!---
-DFZ-Development/DFZ-Development is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[New]
+- Register System
+- Meine Käufe System (Admin/User-Panel)
+
+
+[Bearbeiet]
+- Login System Bearbeitet
+
+
+[Demnächst]
+- User System wird Bearbeitet "19.05.2021" (Admin-Panel)
+- Kosten System kommt "21.05.2021" (Admin-Panel)
+- Verkauf/Kauf System wird Bearbeitet "31.05.2021" (Admin/User-Panel)
