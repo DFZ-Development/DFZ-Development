@@ -2,7 +2,7 @@
 - 1.0.1.32
 
 
-[New]
+[Neu]
 - Register System
 - Meine Käufe System (Admin/User-Panel)
 
